@@ -1,0 +1,79 @@
+{
+  "formData": {
+    "patientInformation": {
+      "firstName": "arb",
+      "lastName": "arb",
+      "middleName": "",
+      "sex": "Male",
+      "maritalStatus": "Unmarried",
+      "ssn": "123456",
+      "address": "",
+      "phoneNo": "36547892110",
+      "email": "kodeandkraftsolutions@gmail.com",
+      "occupation": ""
+    },
+    "primaryInformation": {
+      "primaryInsurance": "",
+      "subscriberName": "",
+      "birthDate": "",
+      "policyNo": "",
+      "partnersRelationship": ""
+    },
+    "secondaryInformation": {
+      "primaryInsurance": "",
+      "subscriberName": "",
+      "birthDate": "",
+      "policyNo": "",
+      "partnersRelationship": ""
+    },
+    "emergencyContact": {
+      "relativeName": "",
+      "relationship": "",
+      "homePhone": "",
+      "workPhone": ""
+    },
+    "otherHealthProvider": {
+      "pcp": "",
+      "clinicName": "",
+      "rp": "",
+      "referenceClinicName": "",
+      "referencePhoneNo": "",
+      "preferredPharmacyName": "",
+      "address": ""
+    },
+    "chiefComplaint": {
+      "visitReason": "",
+      "issueStartDate": ""
+    },
+    "pastMedicalHistory": {
+      "height": "",
+      "weight": "",
+      "sufferedFrom": "",
+      "allergies": [],
+      "currentMedications": [],
+      "pastMedications": [],
+      "pastSurgicalProcedures": [],
+      "pastHospitalizations": []
+    },
+    "familyHistory": [],
+    "socialHistory": {
+      "substanceUse": [],
+      "education": {
+        "years": 0,
+        "degree": ""
+      },
+      "currentLiving": ""
+    },
+    "lifeStyle": {
+      "sleep": {
+        "tired": "",
+        "trouble": "",
+        "hours": ""
+      },
+      "exercise": {
+        "hoursPerWeek": "",
+        "comments": ""
+      }
+    }
+  }
+}
